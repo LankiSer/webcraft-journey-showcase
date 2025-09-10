@@ -46,7 +46,7 @@ const Header = () => {
             <div className="gradient-primary p-2 rounded-lg">
               <Code2 className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-gradient">WebDev Course</span>
+            <span className="text-xl font-bold text-gradient"></span>
           </div>
 
           {/* Desktop Navigation */}
